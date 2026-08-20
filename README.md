@@ -20,12 +20,15 @@ quantify the improvement
 
 # 📊Data Description:\
 
-The analysis is based on loan application records,
-with each entry representing one loan case assigned
-to either the Pilot or BAU group. Fields include:
-🆔Application ID:
- Unique identifier for each loan
-case
+The analysis is based on loan application records, with each entry representing one loan case assigned to either the Pilot or BAU group. Fields include:
+
+- **Application ID** — Unique identifier for each loan case
+- **Group** — Pilot or BAU assignment
+- **Turnaround Time** — Time taken from application to approval decision (in days)
+- **Approval Status** — Approved / Rejected / Dropped-off
+- **Loan Amount** — Requested loan amount
+- **Application Date** — Date of submission
+
 
  Group:
  Pilot or BAU assignment
