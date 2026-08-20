@@ -72,11 +72,13 @@ Turnaround Time:
 average turnaround time by approximately 40%
 compared to BAU, a statistically significant result
 (p < 0.001).
+
 Statistical Confidence:
  All three tested metrics
 showed significance well below the 0.001
 threshold, indicating the improvement is highly
 unlikely to be due to chance.
+
 Business Impact:
  Findings support scaling the
 Pilot process to reduce operational bottlenecks in
