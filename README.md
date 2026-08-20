@@ -87,8 +87,10 @@ loan approval workflows.
 SQL (BigQuery):
  Data querying, aggregation, and
 group comparison
+
 Python:
  Statistical hypothesis testing and
 analysis
+
 SciPy:
  t-test and significance testing
