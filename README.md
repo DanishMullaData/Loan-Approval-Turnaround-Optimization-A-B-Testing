@@ -29,22 +29,6 @@ The analysis is based on loan application records, with each entry representing 
 - **Loan Amount** — Requested loan amount
 - **Application Date** — Date of submission
 
-
- Group:
- Pilot or BAU assignment
-⏱Turnaround Time:
- Time taken from application
-to approval decision (in hours/days)
-✅Approval Status:
- Approved / Rejected
-💰Loan Amount:
- Requested loan amount
-📅Application Date:
- Date of submission
-The dataset consists of 50,000 entries across both
-groups.
-
-
 # 🔍Methodology:
 1. Data Preparation
 Structured records into Pilot and BAU groups
